@@ -1,0 +1,28 @@
+body{
+margin: 0;
+padding: 0;
+font-family:'poppins' san-serif;
+display: flex;
+align-items:center;
+justify-content: center;
+height:100vh;
+background: rgb(2,2,2);
+}
+
+
+
+
+
+p{
+font-size: 10px;
+line-height: 8px;
+text-align: justify;
+background:url(beauty.jpg);
+background-attachment:fixed;
+-webkit-background-size: auto;
+background-size: auto;
+background-repeat: no-repeat;
+background-position: center;
+-webkit-background-clip: text;
+-webkit-text-fill-color: rgba(255,255,255, -1);
+}
